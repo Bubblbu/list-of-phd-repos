@@ -12,7 +12,7 @@ This is not the finalised format of this list. Just adding a few example PhD rep
 - [https://github.com/ryneches/dissertation](https://github.com/ryneches/dissertation) by [ryneches on GitHub](https://github.com/ryneches)
 - [https://github.com/chartgerink/dissertation](https://github.com/chartgerink/dissertation) by [@chartgerink](https://twitter.com/chartgerink) - advanced tracking of progress and publications
 - [Open Source Hardware in Latin America - Democratising technology?](https://github.com/thessaly/phd) by [https://twitter.com/Cassandreces](https://twitter.com/Cassandreces) - News about the PhD
-- 
+
 **Ongoing PhD projects/theses**
 
 - [https://github.com/RaoOfPhysics/phd](https://github.com/RaoOfPhysics/phd) by [@RaoOfPhysics](https://twitter.com/RaoOfPhysics) - great example of a central PhD hub containing links to several resources related to the PhD (papers, posters, presentations, etc)
